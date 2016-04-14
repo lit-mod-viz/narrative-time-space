@@ -2,9 +2,10 @@
 
 ## Goal
 
-We would like to train a machine capable of discerning scenes, defined here as
-discrete units of narrative time and space. To do that we are asking a dozen
-or so human volunteers to read a text and to mark **intuitive boundaries that
+We would like to train a machine to discern boundaries between scenes in novels.
+Here, scenes are defined as discrete units of narrative time and space. To 
+provide the machine with instructive examples, we are asking a dozen or so 
+human volunteers to read a text and to mark **intuitive boundaries that
 signify changes in narrative time and space**.
 
 ## What do we mean by *narrative* time and space?
@@ -86,17 +87,29 @@ see upon entering the party)
 
 ## Space examples
 
-Spatial frames â immediate surroundings of actual events, relevant to
-plot at this time, actions/thoughts of characters. Spaces hierarchically
-organized by containment (town > house > bedroom) but in general we want to be
-much âsmallerâ than stable environment in which the whole
-novel takes place, for example London
-Good indicator of spatial change: imagery of partitions between spaces (walls,
-hallways, doors, windows), and action of crossing thresholds
-Could either cut to new space (think film â cutting to new space) OR
-have a continuous transition (camera follows character from kitchen to
-backyard)
-Perspective jumping b/w characters â spatial change if immediate
-surroundings of characters are different, not spatial change if characters are
-in the same space  
+While spaces in a novel can be hierarchically organized by relations of 
+containment (town > house > bedroom), we are interested in the specific
+and dynamic over the general and static. Think of constantly shifting 
+spatial frames that capture the immediate surroundings of events - the 
+props and backdrops that potentiate the thoughts and actions of characters 
+in a particular scene.
 
+Indicators of significant spatial change may include partitions and paths 
+between spaces (walls, hallways, doors, windows), and actions of crossing 
+thresholds.
+
+A change in space may be abrupt (cinematically speaking, perspective "cuts"
+to a new setting) or continuous, simulating embodied travel (camera follows 
+character from kitchen to backyard).
+
+Changes in space may occur when narrative perspective jumps from one character
+to another, depending on the surroundings of each character.  
+
+## Markers 
+- To mark a change in time, use the symbol \*. 
+- To mark a change in space, use the symbol $.
+- To mark a simultaneous change in time and space, use either \*$ or $\*.
+
+Markers should only be placed between two sentences. Insert a marker between sentences A and B if an implicit jump to a new time/space occurs between A and B, or when A is a fluid transition between times/spaces. 
+
+We would like you to trust your gut when identifying breaches in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (\*?, $?, \*$?, $\*?). 
