@@ -88,8 +88,9 @@ see upon entering the party)
 ## Space examples
 
 While spaces in a novel can be hierarchically organized by relations of 
-containment (town > house > bedroom), we are interested in the shifting 
-spatial frames that comprise the immediate surroundings of events - the 
+containment (town > house > bedroom), we are interested in the specific
+and dynamic over the general and static. Think of constantly shifting 
+spatial frames that capture the immediate surroundings of events - the 
 props and backdrops that potentiate the thoughts and actions of characters 
 in a particular scene.
 
