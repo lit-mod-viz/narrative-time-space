@@ -10,27 +10,25 @@ signify changes in narrative time and space**.
 
 ## What do we mean by *narrative* time and space?
 
-Narrative timeline differs from that of the reader. A few minutes in the
-reader's world may constitute decades in the fictional one. To complicate
+Readers proceed linearly, from left to right, out of the
+past and into the future. In the reader's world, time and space unfold
+smoothly, without disturbance.
+
+Narrative time differs from that of the reader. A few minutes in the
+reader's world may constitute decades in the fictional one, and events
+may be presented out of order. To complicate
 matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. The same
 goes for space. For example, a novel's protagonist may understand the story
 from a different vantage point than that of the narrator.
 
-Yet in another sense, readers proceed linearly, from left to right, out of the
-past and into the future. From their point of view, time and space unfold
-smoothly, without interruption.
-
 Not all changes in time or space are significant. The action of somebody
 standing up or moving to the corner of a room may indicate a new scene but it
 may not. "A few seconds after" could mean a lot or nothing at all. In such
 cases we ask you to rely on your natural, expert intuitions about time, space,
-and scene formation. Don't think too hard about it. If you think there was a
-scene change: if time or space was disrupted in some way, mark it as such.
-
-Another way to approach the task would be to think cinematically: were you to
-write a film adaptation of the story, where would you place the scene markers.
-Trust your intuition and try to be consistent throughout.
+and scene formation. Does the time or space change meaningfully set the stage 
+for what happens next in the plot? Trust your gut, and try to be consistent 
+throughout.
 
 ## Time changes
 
@@ -39,13 +37,17 @@ would indicate tears or gaps in the natural, linear, smooth progression.
 
 Perceptible time changes (those that break the continuity of the story.
 
-Look for explicit temporal markers that situate events or scenes 
-at points or spans on the narrative timeline. A marker may establish an absolute
+Look for explicit evocations of time that situate scenes or events 
+at points or spans on the narrative timeline. A temporal marker may establish an absolute
 or relative point in time ("May 5th," "a few days later"), symbolically 
 position an event in time ("the first time X happened," "before X...now Y"), 
 or circumscribe an event's duration. All markers may be precise or vague, and
-operate on varying levels of time granularity. 
+operate on varying levels of time granularity, from seconds to decades. 
 
+**Breaching narrative levels**
+
+When such cues are employed to fix the chronology of events within the same 
+narrative level, they 
 Time changes are straightforward to note when events occur within the same 
 narrative level. What if narrative levels are breached? 
 
