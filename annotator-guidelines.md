@@ -26,16 +26,13 @@ Not all changes in time or space are significant. The action of somebody
 standing up or moving to the corner of a room may indicate a new scene but it
 may not. "A few seconds after" could mean a lot or nothing at all. In such
 cases we ask you to rely on your natural, expert intuitions about time, space,
-and scene formation. Does the time or space change meaningfully set the stage 
+and scene formation. Does the change in time or space meaningfully set the stage 
 for what happens next in the plot? Trust your gut, and try to be consistent 
 throughout.
 
 ## Time changes
 
-If we think of narrative time as a continuous string, disruptions of narrative
-would indicate tears or gaps in the natural, linear, smooth progression.
-
-Perceptible time changes (those that break the continuity of the story.
+Time changes are perceptible disruptions in the continuous progression of time.
 
 Look for explicit evocations of time that situate scenes or events 
 at points or spans on the narrative timeline. A temporal marker may establish an absolute
