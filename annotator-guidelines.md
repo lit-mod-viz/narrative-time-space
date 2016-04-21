@@ -21,24 +21,6 @@ Yet in another sense, readers proceed linearly, from left to right, out of the
 past and into the future. From their point of view, time and space unfold
 smoothly, without interruption.
 
-```
-
-When reading your assigned novel, we ask that you pay attention to
-disruptions, changes, or incongruities in the fabric of fictional time and
-space by marking boundaries. Thus, place a spatial mark when a character or a
-group of characters pass from one room to another, from inside to outside,
-from one section of something to another.
-
-Place a temporal mark when things happen "several years later," when paragraph
-or chapter boundaries conceal a shift "a jump" in time, as they do in a
-flashback.
-
-Place both marks when both time and place shift inconsiderably as it happens
-when we switch from character to character, or from a character's to a
-narrator's point of view.
-
-```
-
 Not all changes in time or space are significant. The action of somebody
 standing up or moving to the corner of a room may indicate a new scene but it
 may not. "A few seconds after" could mean a lot or nothing at all. In such
@@ -50,21 +32,24 @@ Another way to approach the task would be to think climatically: were you to
 write a film adaptation of the story, where would you place the scene markers.
 Trust your intuition and try to be consistent throughout.
 
-## Time examples
-
-Time changes fall into several broad categories.
+## Time changes
 
 If we think of narrative time as a kind of a string, disruptions of narrative
 would indicate tears or gaps in the natural, linear, smooth progression.
 
-that break the continuity of the story.
-An author may signal a disturbance in the
+Perceptible time changes (those that break the continuity of the story.
 
-Time: major disruption in time, is explicitly evoked by a temporal marker 
-Absolute (Christmas, May 5th)
-Relative (5 years later)
-Time period 
-Duration 
+We are looking for explicit temporal markers that situate events or scenes 
+at points on the narrative timeline. A marker may establish an absolute
+or relative point in time ("May 5th," "a few days later"), symbolically 
+position an event in time ("the first time X happened," "before X...now Y"), 
+or circumscribe an event's duration. All markers may be precise or vague, and
+operate on varying levels of time granularity. 
+
+Time changes are straightforward to note when events occur within the same 
+narrative level. What if narrative levels are breached? 
+
+ 
 What is major? Differentiate between mere reference to another time, and
 immersive transportation to another time (latter is major). Thinking about
 chronotope â in addition to explicit demarcation of time, does time
@@ -85,21 +70,21 @@ Does not count â description is akin to âtaking inâ
 the spatiotemporal moment (e.g. describing setup of party and the people we
 see upon entering the party)
 
-## Space examples
+## Space changes
 
 While spaces in a novel can be hierarchically organized by relations of 
-containment (town > house > bedroom), we are interested in the specific
-and dynamic over the general and static. Think of constantly shifting 
+containment (town > house > bedroom), we are interested in the *specific
+and dynamic* over the general and static. Pay attention to the constantly shifting 
 spatial frames that capture the immediate surroundings of events - the 
-props and backdrops that potentiate the thoughts and actions of characters 
-in a particular scene.
+props and backdrops that potentiate characters' thoughts and actions 
+from scene to scene.
 
-Indicators of significant spatial change may include partitions and paths 
+Strong indicators of significant spatial change may include partitions and pathways 
 between spaces (walls, hallways, doors, windows), and actions of crossing 
 thresholds.
 
-A change in space may be abrupt (cinematically speaking, perspective "cuts"
-to a new setting) or continuous, simulating embodied travel (camera follows 
+A change in space may be abrupt (cinematically speaking, when a shot "cuts"
+to a new setting). It may be continuous, simulating embodied travel (camera follows 
 character from kitchen to backyard).
 
 Changes in space may occur when narrative perspective jumps from one character
@@ -112,4 +97,4 @@ to another, depending on the surroundings of each character.
 
 Markers should only be placed between two sentences. Insert a marker between sentences A and B if an implicit jump to a new time/space occurs between A and B, or when A is a fluid transition between times/spaces. 
 
-We would like you to trust your gut when identifying breaches in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (\*?, $?, \*$?, $\*?). 
+We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (\*?, $?, \*$?, $\*?). 
