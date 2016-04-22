@@ -15,12 +15,15 @@ past and into the future. In the reader's world, time and space unfold
 smoothly, without disturbance.
 
 Narrative time differs from that of the reader. A few minutes in the
-reader's world may constitute decades in the fictional one, and events
+reader's world may constitute decades in the fictional one. Time may not
+be continuous, and events
 may be presented out of order. To complicate
 matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. The same
-goes for space. For example, a novel's protagonist may understand the story
+goes for space. A novel's protagonist may understand the story
 from a different vantage point than that of the narrator.
+
+**Considering significance**
 
 Not all changes in time or space are significant. The action of somebody
 standing up or moving to the corner of a room may indicate a new scene but it
@@ -32,7 +35,8 @@ throughout.
 
 ## Time changes
 
-Time changes are perceptible disruptions in the continuous progression of time.
+You may think of a time change as a disruption in the assumed,
+smooth, linear progression of time - a tear, gap or other incongruity.  
 
 Look for explicit evocations of time that situate scenes or events 
 at points or spans on the narrative timeline. A temporal marker may establish an absolute
@@ -40,34 +44,6 @@ or relative point in time ("May 5th," "a few days later"), symbolically
 position an event in time ("the first time X happened," "before X...now Y"), 
 or circumscribe an event's duration. All markers may be precise or vague, and
 operate on varying levels of time granularity, from seconds to decades. 
-
-**Breaching narrative levels**
-
-When such cues are employed to fix the chronology of events within the same 
-narrative level, they 
-Time changes are straightforward to note when events occur within the same 
-narrative level. What if narrative levels are breached? 
-
- 
-What is major? Differentiate between mere reference to another time, and
-immersive transportation to another time (latter is major). Thinking about
-chronotope â in addition to explicit demarcation of time, does time
-âthicken â take on flesh â become artistically
-visibleâ? How situated is the reader in this new time, can she/he
-construct mental representation of it?
-How to deal with dual events (âmeanwhileâ)? If concurrent
-event is in another place, just count this as a spatial change
-How to handle embedded narratives? Breaching of narrative levels counts as
-disruption in time if it is âmajorâ (see above)
-Easier case: character tells eventful story situated in another time/another
-place.
-What if thing we jump to is not âeventfulâ? Example,
-pauses/suspensions in which the event-story is interrupted to make room for
-static descriptions or summary. YES â this counts as a time
-disruption, even if we return to the same time as before 
-Does not count â description is akin to âtaking inâ
-the spatiotemporal moment (e.g. describing setup of party and the people we
-see upon entering the party)
 
 ## Space changes
 
@@ -88,6 +64,12 @@ character from kitchen to backyard).
 
 Changes in space may occur when narrative perspective jumps from one character
 to another, depending on the surroundings of each character.  
+
+## Breaching narrative levels
+
+When a character narrates an eventful story situated in another time/space
+When a narrator suspends the event-story to make room for static descriptions
+or summary 
 
 ## Markers 
 - To mark a change in time, use the symbol #. 
