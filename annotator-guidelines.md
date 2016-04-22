@@ -26,8 +26,8 @@ from a different vantage point than that of the narrator.
 **Considering significance**
 
 Not all changes in time or space are significant. The action of somebody
-standing up or moving to the corner of a room may indicate a new scene but it
-may not. "A few seconds after" could mean a lot or nothing at all. In such
+moving to the corner of a room may indicate a new scene but it
+may not. "Suddenly" could mean a lot or nothing at all. In such
 cases we ask you to rely on your natural, expert intuitions about time, space,
 and scene formation. Does the change in time or space meaningfully set the stage 
 for what happens next in the plot? Trust your gut, and try to be consistent 
@@ -38,12 +38,15 @@ throughout.
 You may think of a time change as a disruption in the assumed,
 smooth, linear progression of time - a tear, gap or other incongruity.  
 
-Look for explicit evocations of time that situate scenes or events 
+Look for evocations of time that situate scenes or events 
 at points or spans on the narrative timeline. A temporal marker may establish an absolute
 or relative point in time ("May 5th," "a few days later"), symbolically 
 position an event in time ("the first time X happened," "before X...now Y"), 
 or circumscribe an event's duration. All markers may be precise or vague, and
 operate on varying levels of time granularity, from seconds to decades. 
+
+Remember, not every indication that time has passed, or every hearkening to 
+a time in the past, will be significant in terms of scene formation. 
 
 ## Space changes
 
@@ -59,17 +62,19 @@ between spaces (walls, hallways, doors, windows), and actions of crossing
 thresholds.
 
 A change in space may be abrupt (cinematically speaking, when a shot "cuts"
-to a new setting). It may be continuous, simulating embodied travel (camera follows 
+to a new setting). Or it may be continuous, simulating embodied travel (camera follows 
 character from kitchen to backyard).
 
 Changes in space may occur when narrative perspective jumps from one character
 to another, depending on the surroundings of each character.  
 
-## Breaching narrative levels
+## Suspending narrative, breaching narrative levels
 
-When a character narrates an eventful story situated in another time/space
+When a character narrates an eventful story situated in another time/space, 
+breaching narrative levels, consider the boundary as a change in time/space. 
+What if the thing we jump to is not eventful?
 When a narrator suspends the event-story to make room for static descriptions
-or summary 
+or summary, this may be a significant disruption in time/space. 
 
 ## Markers 
 - To mark a change in time, use the symbol #. 
