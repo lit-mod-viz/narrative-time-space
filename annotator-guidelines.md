@@ -5,8 +5,8 @@
 We would like to train a machine to discern boundaries between scenes in novels.
 Here, scenes are defined as discrete units of narrative time and space. To 
 provide the machine with instructive examples, we are asking a dozen or so 
-human volunteers to read a text and to mark **intuitive boundaries that
-signify changes in narrative time and space**.
+human volunteers to read a text and to mark **scene boundaries that are indicated
+by changes in narrative time and space.**
 
 ## What do we mean by *narrative* time and space?
 
@@ -17,7 +17,9 @@ smoothly, without disturbance.
 Narrative time differs from that of the reader. A few minutes in the
 reader's world may constitute decades in the fictional one. Time may not
 be continuous, and events
-may be presented out of order. To complicate
+may be presented out of order. A flashback, for example, signifies a 
+change in scene for our purposes.
+To complicate
 matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. The same
 goes for space. A novel's protagonist may understand the story
@@ -25,9 +27,10 @@ from a different vantage point than that of the narrator.
 
 **Considering significance**
 
-Not all changes in time or space are significant. The action of somebody
+Not all changes in time or space correspond to a change in scene. [The action of somebody
 moving to the corner of a room may indicate a new scene but it
-may not. "Suddenly" could mean a lot or nothing at all. In such
+may not. "Suddenly" could mean a lot or nothing at all.] (Move this information
+to examples section.) In such
 cases we ask you to rely on your natural, expert intuitions about time, space,
 and scene formation. Does the change in time or space meaningfully set the stage 
 for what happens next in the plot? Trust your gut, and try to be consistent 
@@ -45,8 +48,8 @@ position an event in time ("the first time X happened," "before X...now Y"),
 or circumscribe an event's duration. All markers may be precise or vague, and
 operate on varying levels of time granularity, from seconds to decades. 
 
-Remember, not every indication that time has passed, or every hearkening to 
-a time in the past, will be significant in terms of scene formation. 
+**Distinguish between when time (or space) is used to mark a scene change, and
+when it indicates something else.** 
 
 ## Space changes
 
@@ -55,7 +58,9 @@ containment (town > house > bedroom), we are interested in the *specific
 and dynamic* over the general and static. Pay attention to the constantly shifting 
 spatial frames that capture the immediate surroundings of events - the 
 props and backdrops that potentiate characters' thoughts and actions 
-from scene to scene.
+from scene to scene. (Settings like rooms , streets, always occur within
+more general settings like houses or cities, but we want to look at 
+changes in the specific surroundings..)
 
 Strong indicators of significant spatial change may include partitions and pathways 
 between spaces (walls, hallways, doors, windows), and actions of crossing 
@@ -75,6 +80,9 @@ breaching narrative levels, consider the boundary as a change in time/space.
 What if the thing we jump to is not eventful?
 When a narrator suspends the event-story to make room for static descriptions
 or summary, this may be a significant disruption in time/space. 
+
+If we are immersively transported to another time/space, it is a scene 
+change (even if just static description); if another time/space is merely mentioned, it is probably not. 
 
 ## Markers 
 - To mark a change in time, use the symbol #. 
