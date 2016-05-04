@@ -67,16 +67,16 @@ the reader is effectively transported to a different period of time.
  
 **Example 2**
 
-A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **@**
+> A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **@**
 
-Ravenous, and now very faint, I devoured a spoonful or two of my portion without thinking of its taste.
+> Ravenous, and now very faint, I devoured a spoonful or two of my portion without thinking of its taste.
 
 Explanation: Here, time is more metaphorical, emerging from
 the commencement of the meal - "lunchtime" has begun.  
  
 **Example 3**
 
-"But I have studied the place for myself," continued Mr. Enfield.
+> "But I have studied the place for myself," continued Mr. Enfield.
 "It seems scarcely a house. There is no other door, and nobody goes
 in or out of that one but, once in a great while, the gentleman of
 my adventure. There are three windows looking on the court on the
@@ -87,7 +87,7 @@ buildings are so packed together about that court, that it's hard to
 say where one ends and another begins."
 
 
-*The pair walked on again for a while in silence;* and then,
+> *The pair walked on again for a while in silence;* and then,
 "Enfield," said Mr. Utterson, "that's a good rule of yours."
 
 Explanation: The passage of time is evoked, but it only serves to
@@ -120,15 +120,15 @@ Not all changes in space correspond to a change in scene.
 
 **Example 1**
 
-"No; you are less than a servant, for you do nothing for your keep. There, sit down, and think over your wickedness." **$**
+> "No; you are less than a servant, for you do nothing for your keep. There, sit down, and think over your wickedness." **$**
 
-They had got me by this time into the apartment indicated by Mrs. Reed, and had thrust me upon a stool: my impulse was to rise from it like a spring; their two pair of hands arrested me instantly.
+> They had got me by this time into the apartment indicated by Mrs. Reed, and had thrust me upon a stool: my impulse was to rise from it like a spring; their two pair of hands arrested me instantly.
 
 **Example 2**
 
-I had put on some clothes, though horror shook all my limbs; I issued from my apartment. **$** 
+> I had put on some clothes, though horror shook all my limbs; I issued from my apartment. **$** 
 
-The sleepers were all aroused: ejaculations, terrified murmurs sounded in every room; door after door unclosed; one looked out and another looked out; the gallery filled.  Gentlemen and ladies alike had quitted their beds; and “Oh! what is it?”—“Who is hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there robbers?”—“Where shall we run?” was demanded confusedly on all hands.
+> The sleepers were all aroused: ejaculations, terrified murmurs sounded in every room; door after door unclosed; one looked out and another looked out; the gallery filled.  Gentlemen and ladies alike had quitted their beds; and “Oh! what is it?”—“Who is hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there robbers?”—“Where shall we run?” was demanded confusedly on all hands.
 
 ### Suspending narrative, breaching narrative levels
 
