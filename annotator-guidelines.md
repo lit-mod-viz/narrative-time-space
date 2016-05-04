@@ -8,34 +8,6 @@ provide the machine with instructive examples, we are asking a dozen or so
 human volunteers to read a text and to mark **scene boundaries that are indicated
 by changes in narrative time and space.**
 
-## What do we mean by *narrative* time and space?
-
-Readers proceed linearly, from left to right, out of the
-past and into the future. In the reader's world, time and space unfold
-smoothly, without disturbance.
-
-Narrative time differs from that of the reader. A few minutes in the
-reader's world may constitute decades in the fictional one. Time may not
-be continuous, and events
-may be presented out of order. A flashback, for example, signifies a 
-change in scene for our purposes.
-To complicate
-matters, fictional stories often contain multiple layers of narrative---worlds
-within worlds---which unfold simultaneously in multiple dimensions. The same
-goes for space. A novel's protagonist may understand the story
-from a different vantage point than that of the narrator.
-
-**Considering significance**
-
-Not all changes in time or space correspond to a change in scene. [The action of somebody
-moving to the corner of a room may indicate a new scene but it
-may not. "Suddenly" could mean a lot or nothing at all.] (Move this information
-to examples section.) In such
-cases we ask you to rely on your natural, expert intuitions about time, space,
-and scene formation. Does the change in time or space meaningfully set the stage 
-for what happens next in the plot? Trust your gut, and try to be consistent 
-throughout.
-
 ## Time changes
 
 You may think of a time change as a disruption in the assumed,
@@ -48,19 +20,35 @@ position an event in time ("the first time X happened," "before X...now Y"),
 or circumscribe an event's duration. All markers may be precise or vague, and
 operate on varying levels of time granularity, from seconds to decades. 
 
-**Distinguish between when time (or space) is used to mark a scene change, and
-when it indicates something else.** 
+Note that not all time changes correspond to a change in scene. You 
+must distinguish between when time is used to mark a scene change, and
+when it indicates something else.
+
+**Examples**
+
+"But I have studied the place for myself," continued Mr. Enfield.
+"It seems scarcely a house. There is no other door, and nobody goes
+in or out of that one but, once in a great while, the gentleman of
+my adventure. There are three windows looking on the court on the
+first floor; none below; the windows are always shut but they're
+clean. And then there is a chimney which is generally smoking; so
+somebody must live there. And yet it's not so sure; for the
+buildings are so packed together about that court, that it's hard to
+say where one ends and another begins."
+
+
+The pair walked on again for a while in silence; and then,
+"Enfield," said Mr. Utterson, "that's a good rule of yours."
 
 ## Space changes
 
 While spaces in a novel can be hierarchically organized by relations of 
-containment (town > house > bedroom), we are interested in the *specific
+containment (with rooms or streets always occurring within more
+general settings such as houses or cities), we are interested in the *specific
 and dynamic* over the general and static. Pay attention to the constantly shifting 
 spatial frames that capture the immediate surroundings of events - the 
 props and backdrops that potentiate characters' thoughts and actions 
-from scene to scene. (Settings like rooms , streets, always occur within
-more general settings like houses or cities, but we want to look at 
-changes in the specific surroundings..)
+from scene to scene. 
 
 Strong indicators of significant spatial change may include partitions and pathways 
 between spaces (walls, hallways, doors, windows), and actions of crossing 
@@ -73,6 +61,8 @@ character from kitchen to backyard).
 Changes in space may occur when narrative perspective jumps from one character
 to another, depending on the surroundings of each character.  
 
+Not all changes in space correspond to a change in scene. 
+
 ## Suspending narrative, breaching narrative levels
 
 When a character narrates an eventful story situated in another time/space, 
@@ -83,6 +73,7 @@ or summary, this may be a significant disruption in time/space.
 
 If we are immersively transported to another time/space, it is a scene 
 change (even if just static description); if another time/space is merely mentioned, it is probably not. 
+
 
 ## Markers 
 - To mark a change in time, use the symbol #. 
