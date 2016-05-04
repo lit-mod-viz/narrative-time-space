@@ -156,13 +156,13 @@ Not all changes in space correspond to a change in scene.
 ### 2.4 Suspending narrative, breaching narrative levels
 
 When a character narrates an eventful story situated in another time/space, 
-breaching narrative levels, a scene change may occur, depending on whether
-the story immersively transports the reader to another time or place, or 
+breaching narrative levels, a scene change may occur. Consider whether
+the embedded story immersively transports the reader to another time or place, or 
 whether the story/memory is merely referenced. 
 What if the thing we jump to is not eventful?
 When a narrator suspends the event-story to make room for static descriptions
-or summary, this may also be a scene change. It depends on whether a time/space
-is described in such a way that it takes on flesh in the reader's mind.
+or summary, this may also be a scene change, depending on whether some differentiated
+time or space is described in such a way that it takes on flesh in the reader's mind.
 
 
 **Example F**
