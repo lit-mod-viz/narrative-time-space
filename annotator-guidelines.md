@@ -24,7 +24,7 @@ Note that not all time changes correspond to a change in scene. You
 must distinguish between when time is used to mark a scene change, and
 when it indicates something else.
 
-**Examples**
+**Example 1**
 
 "But I have studied the place for myself," continued Mr. Enfield.
 "It seems scarcely a house. There is no other door, and nobody goes
@@ -37,8 +37,13 @@ buildings are so packed together about that court, that it's hard to
 say where one ends and another begins."
 
 
-The pair walked on again for a while in silence; and then,
+*The pair walked on again for a while in silence;* and then,
 "Enfield," said Mr. Utterson, "that's a good rule of yours."
+
+Explanation: The passage of time is evoked, but it only serves to
+indicate that both characters were lost in thought. After the temporal
+signal, the two are still walking along the same path, 
+engaged in the same conversation. No scene change has occurred. 
 
 ## Space changes
 
