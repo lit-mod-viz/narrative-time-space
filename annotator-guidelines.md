@@ -16,8 +16,8 @@ by changes in narrative time and space.**
 - To mark a simultaneous change in time and space, use either @$ or $@.
 
 Markup can be done in-line within the plain text document sent by the moderators. 
-To submit your results, save the completed file and attach it in an email to the 
-moderators.
+**To submit your results, save the completed file and attach it in an email to the 
+moderators.**
 
 Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
 
@@ -48,7 +48,7 @@ Dennis Tenen - dt2406@columbia.edu
 
 ## 2. Definitions
 
-### 2.1 Narrative (diegetic ) worlds
+### 2.1 Narrative (diegetic) worlds
 
 Narrative time and space differs from that of the reader. A few minutes in the
 reader's world may constitute decades in the fictional one. Time may not
