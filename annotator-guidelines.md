@@ -52,10 +52,10 @@ when it indicates something else.
 
 **Example 1**
 
-It was evident, indeed, that she wished me to drop the subject, which I did accordingly. **@** 
+> It was evident, indeed, that she wished me to drop the subject, which I did accordingly. **@** 
  
-For several subsequent days I saw little of Mr. Rochester. In the mornings he seemed much engaged with business, and, in the afternoon, gentlemen from Millcote or the neighbourhood called, and sometimes stayed to dine with him.  When his sprain was well enough to admit of horse exercise, he rode out a good deal; probably to return these visits, as he generally did not come back till late at night. During this interval, even Adèle was seldom sent for to his presence, and all my acquaintance with him was confined to an occasional rencontre in the hall, on the stairs, or in the gallery, when he would sometimes pass me haughtily and coldly, just acknowledging my presence by a distant nod or a cool glance, and sometimes bow and smile with gentlemanlike affability. 
- 
+> For several subsequent days I saw little of Mr. Rochester. In the mornings he seemed much engaged with business, and, in the afternoon, gentlemen from Millcote or the neighbourhood called, and sometimes stayed to dine with him.  When his sprain was well enough to admit of horse exercise, he rode out a good deal; probably to return these visits, as he generally did not come back till late at night. During this interval, even Adèle was seldom sent for to his presence, and all my acquaintance with him was confined to an occasional rencontre in the hall, on the stairs, or in the gallery, when he would sometimes pass me haughtily and coldly, just acknowledging my presence by a distant nod or a cool glance, and sometimes bow and smile with gentlemanlike affability. 
+
 Explanation: Although time is marked several times (in the mornings...
 in the afternoon), the scene change is inserted before the phrase 
 "for several subsequent days." This marks the beginning of a cohesive
