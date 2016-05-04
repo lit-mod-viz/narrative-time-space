@@ -21,13 +21,13 @@ within worlds---which unfold simultaneously in multiple dimensions.
 
 
 ## Markers 
-- To mark a change in time, use the symbol #. 
+- To mark a change in time, use the symbol @. 
 - To mark a change in space, use the symbol $.
-- To mark a simultaneous change in time and space, use either #$ or $#.
+- To mark a simultaneous change in time and space, use either @$ or $@.
 
 Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
 
-We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (#?, $?, #$?, $#?). 
+We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?). 
 
 ## Time changes
 
@@ -47,7 +47,7 @@ when it indicates something else.
 
 **Example 1**
 
-It was evident, indeed, that she wished me to drop the subject, which I did accordingly. **#** 
+It was evident, indeed, that she wished me to drop the subject, which I did accordingly. **@** 
  
 For several subsequent days I saw little of Mr. Rochester. In the mornings he seemed much engaged with business, and, in the afternoon, gentlemen from Millcote or the neighbourhood called, and sometimes stayed to dine with him.  When his sprain was well enough to admit of horse exercise, he rode out a good deal; probably to return these visits, as he generally did not come back till late at night. During this interval, even Adèle was seldom sent for to his presence, and all my acquaintance with him was confined to an occasional rencontre in the hall, on the stairs, or in the gallery, when he would sometimes pass me haughtily and coldly, just acknowledging my presence by a distant nod or a cool glance, and sometimes bow and smile with gentlemanlike affability. 
  
@@ -62,7 +62,7 @@ the reader is effectively transported to a different period of time.
  
 **Example 2**
 
-A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **#**
+A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **@**
 
 Ravenous, and now very faint, I devoured a spoonful or two of my portion without thinking of its taste.
 
