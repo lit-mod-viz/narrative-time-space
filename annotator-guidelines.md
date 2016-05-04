@@ -8,9 +8,9 @@ provide the machine with instructive examples, we are asking a dozen or so
 human volunteers to read a text and to mark **scene boundaries that are indicated
 by changes in narrative time and space.**
 
-## Instructions
+## 1. Instructions
 
-### Markers 
+### 1.1 Markers 
 - To mark a change in time, use the symbol @. 
 - To mark a change in space, use the symbol $.
 - To mark a simultaneous change in time and space, use either @$ or $@.
@@ -19,11 +19,11 @@ Markers should only be placed between two sentences. Insert a marker between sen
 
 We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?). 
 
-### Timeline and Contact Information
+### 1.2 Timeline and Contact Information
 
-## Definitions
+## 2. Definitions
 
-### Narrative (diegetic ) worlds
+### 2.1 Narrative (diegetic ) worlds
 
 Narrative time and space differs from that of the reader. A few minutes in the
 reader's world may constitute decades in the fictional one. Time may not
@@ -33,7 +33,7 @@ from a different vantage point than that of the narrator.
 To complicate matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. 
 
-### Time changes
+### 2.2 Time changes
 
 You may think of a time change as a disruption in the assumed,
 smooth, linear progression of time - a tear, gap or other incongruity.  
@@ -63,7 +63,6 @@ various things besides the narrator's companionship. Although the pace
 of the narrative has quickened, taking on the effect of summary,
 the reader is effectively transported to a different period of time.
  
- 
 **Example 2**
 
 > A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **@**
@@ -85,7 +84,6 @@ somebody must live there. And yet it's not so sure; for the
 buildings are so packed together about that court, that it's hard to
 say where one ends and another begins."
 
-
 > *The pair walked on again for a while in silence;* and then,
 "Enfield," said Mr. Utterson, "that's a good rule of yours."
 
@@ -94,7 +92,7 @@ indicate that both characters were lost in thought. After the temporal
 signal, the two are still walking along the same path, 
 engaged in the same conversation. No scene change has occurred. 
 
-### Space changes
+### 2.3 Space changes
 
 While spaces in a novel can be hierarchically organized by relations of 
 containment (with rooms or streets always occurring within more
@@ -129,7 +127,7 @@ Not all changes in space correspond to a change in scene.
 
 > The sleepers were all aroused: ejaculations, terrified murmurs sounded in every room; door after door unclosed; one looked out and another looked out; the gallery filled.  Gentlemen and ladies alike had quitted their beds; and “Oh! what is it?”—“Who is hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there robbers?”—“Where shall we run?” was demanded confusedly on all hands.
 
-### Suspending narrative, breaching narrative levels
+### 2.4 Suspending narrative, breaching narrative levels
 
 When a character narrates an eventful story situated in another time/space, 
 breaching narrative levels, a scene change may occur. 
