@@ -8,6 +8,15 @@ provide the machine with instructive examples, we are asking a dozen or so
 human volunteers to read a text and to mark **scene boundaries that are indicated
 by changes in narrative time and space.**
 
+## Markers 
+- To mark a change in time, use the symbol @. 
+- To mark a change in space, use the symbol $.
+- To mark a simultaneous change in time and space, use either @$ or $@.
+
+Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
+
+We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?). 
+
 ## What do we mean by *narrative* time and space?
 
 Narrative time differs from that of the reader. A few minutes in the
@@ -17,17 +26,6 @@ goes for space - a novel's protagonist may understand the story
 from a different vantage point than that of the narrator.
 To complicate matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. 
-
-
-
-## Markers 
-- To mark a change in time, use the symbol @. 
-- To mark a change in space, use the symbol $.
-- To mark a simultaneous change in time and space, use either @$ or $@.
-
-Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
-
-We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?). 
 
 ## Time changes
 
