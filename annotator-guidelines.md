@@ -80,12 +80,14 @@ when it indicates something else.
 > For several subsequent days I saw little of Mr. Rochester. In the mornings he seemed much engaged with business, and, in the afternoon, gentlemen from Millcote or the neighbourhood called, and sometimes stayed to dine with him.  When his sprain was well enough to admit of horse exercise, he rode out a good deal; probably to return these visits, as he generally did not come back till late at night. During this interval, even Adèle was seldom sent for to his presence, and all my acquaintance with him was confined to an occasional rencontre in the hall, on the stairs, or in the gallery, when he would sometimes pass me haughtily and coldly, just acknowledging my presence by a distant nod or a cool glance, and sometimes bow and smile with gentlemanlike affability. 
 
 Explanation: Although time is marked several times (in the mornings...
-in the afternoon), the scene change is inserted before the phrase 
-"for several subsequent days." This marks the beginning of a cohesive
+in the afternoon), the only scene change is inserted before the phrase 
+"for several subsequent days." This marks a transition to a cohesive
 period of time characterized by Mr. Rochester's preoccupation with 
 various things besides the narrator's companionship. Although the pace
-of the narrative has quickened, taking on the effect of summary,
-the reader is effectively transported to a different period of time.
+of the narrative has quickened, taking on the effect of summary, and
+several events that occur at different times are described, the 
+repetition of these events are bounded by the duration of the entire
+time period.
  
 **Example B**
 
@@ -162,5 +164,14 @@ or summary, this may also be a scene change.
 If we are immersively transported to another time/space, it is a scene 
 change (even if just static description); if another time/space is merely mentioned, it is probably not. 
 
+**Example F**
+
+> Mr. Rochester did, on a future occasion, explain it.  It was one afternoon, when he chanced to meet me and Adèle in the grounds: and while she played with Pilot and her shuttlecock, he asked me to walk up and down a long beech avenue within sight of her.
+
+> He then said that she was the daughter of a French opera-dancer, Céline Varens, towards whom he had once cherished what he called a “grande passion.”  This passion Céline had professed to return with even superior ardour.  He thought himself her idol, ugly as he was: he believed, as he said, that she preferred his “taille d’athlète” to the elegance of the Apollo Belvidere. **@$**
+
+> “And, Miss Eyre, so much was I flattered by this preference of the Gallic sylph for her British gnome, that I installed her in an hotel; gave her a complete establishment of servants, a carriage, cashmeres, diamonds, dentelles, &c.  In short, I began the process of ruining myself in the received style, like any other spoony.  I had not, it seems, the originality to chalk out a new road to shame and destruction, but trode the old track with stupid exactness not to deviate an inch from the beaten centre.  I had—as I deserved to have—the fate of all other spoonies.  Happening to call one evening when Céline did not expect me, I found her out; but it was a warm night, and I was tired with strolling through Paris, so I sat down in her boudoir; happy to breathe the air consecrated so lately by her presence.  No,—I exaggerate; I never thought there was any consecrating virtue about her: it was rather a sort of pastille perfume she had left; a scent of musk and amber, than an odour of sanctity.  I was just beginning to stifle with the fumes of conservatory flowers and sprinkled essences, when I bethought myself to open the window and step out on to the balcony.  It was moonlight and gaslight besides, and very still and serene.  The balcony was furnished with a chair or two; I sat down, and took out a cigar,—I will take one now, if you will excuse me.”
+
+Explanation: Mr. Rochester begins telling a story that immerses the reader in another time and place. Although he refers to the past in the second paragraph, it is a mere reference to a memory. That memory becomes a scene of its own when he launches into detailed description and vignette in the third paragraph, transporting the reader to the past. 
 
 
