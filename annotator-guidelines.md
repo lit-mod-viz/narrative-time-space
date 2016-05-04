@@ -2,48 +2,74 @@
 
 ## Goal
 
-We would like to train a machine to discern boundaries between scenes in novels.
-Here, scenes are defined as discrete units of narrative time and space. To 
-provide the machine with instructive examples, we are asking a dozen or so 
-human volunteers to read a text and to mark **scene boundaries that are indicated
-by changes in narrative time and space.**
+We would like to train a machine to discern boundaries between scenes in
+novels.  Here, scenes are defined as discrete units of narrative time and
+space. To provide the machine with instructive examples, we are asking a dozen
+or so human volunteers to read a text and to mark **scene boundaries that are
+indicated by changes in narrative time and space.**
 
 ## 1. Instructions
 
-### 1.1 Markers 
-- To mark a change in time, use the symbol @. 
-- To mark a change in space, use the symbol $.
-- To mark a simultaneous change in time and space, use either @$ or $@.
+### 1.1 Markers
 
-**Markup can be done in-line within the plain text document sent by the moderators. 
-To submit your results, save the completed file and attach it in an email to the 
+- To mark a change in time, use the symbol `@`.
+- To mark a change in space, use the symbol `$`.
+- To mark a simultaneous change in time and space, use either `@$` or `$@`.
+
+**Markup can be done in-line within the plain text document sent by the
 moderators.**
 
-Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
+To ensure you document is in plain text please use the text editors included
+in your operating system: *Notepad* for Windows and *TextWrangler* for
+*TextEdit* for Mac.
 
-We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?).
+When using *Notepad*: navigate to the `File` menu, select `Save As`. At the
+bottom of the `Save As` dialog box, select `Plain text (*.txt)` from the `Save as
+type...  drop-down list.
+
+When using *TextEdit*: navigate to the `Format` menu and select the `Make Plain
+Text` option.
+
+**To submit your results, save the completed file and attach it in
+an email to the moderators.**
+
+Markers should only be placed between two sentences. Insert a marker between
+sentences A and B if sentence B begins in a new temporal or spatial location
+from sentence A. In some cases, the sentence boundary conceals an implicit
+"jump" from one location to the next. In other cases, sentence A may function
+as a fluid transition out of the previous location, and B may be a transition
+into the new one.
+
+We would like you to trust your gut when identifying significant changes in
+time and space. However, when you encounter a highly ambiguous situation or
+one that is not covered in this document, note your uncertainty by appending a
+question mark to the usual symbol (`@?`, `@?`, `@$?`, `$@?`).
 
 ### 1.2 Timeline and Contact Information
 
 #### 1.2.1 Pilot
-We are running a short "pilot" task to garner feedback on 
-the clarity of the annotation guidelines and to get an initial sense
-of inter-annotator agreement. The pilot consists
-of a single chapter of text, which will be sent out to all annotators. 
-Please complete your annotations in-line within the plain text file,
-and submit by attaching the modified file in an email to the 
+
+We are running a short "pilot" task to garner feedback on the clarity of the
+annotation guidelines and to get an initial sense of inter-annotator
+agreement. The pilot consists of a single chapter of text, which will be sent
+out to all annotators.  Please complete your annotations in-line within the
+plain text file, and submit by attaching the modified file in an email to the
 moderators.
 
 #### 1.2.2 Due dates
-- May 12th - complete pilot and submit to moderators.
-- June 5th - complete full novel and submit to moderators.
+
+| date      | task                                                    |
+|-----------|---------------------------------------------------------|
+| May 12th  | complete pilot and submit to moderators.                |
+| June 5th  | complete full novel and submit to moderators.           |
 
 Please let us know as soon as possible if you require an extension.
 
 #### 1.2.3 Moderators
-Melody Ju - melody@cs.columbia.edu
 
-Dennis Tenen - dt2406@columbia.edu
+Melody Ju, melody@cs.columbia.edu  
+Dennis Tenen, dt2406@columbia.edu  
+Nicholas Dames, nd122@columbia.edu  
 
 ## 2. Definitions
 
