@@ -174,4 +174,3 @@ change (even if just static description); if another time/space is merely mentio
 
 Explanation: Mr. Rochester begins telling a story that immerses the reader in another time and place. Although he refers to the past in the second paragraph, it is a mere reference to a memory. That memory becomes a scene of its own when he launches into detailed description and vignette in the third paragraph, transporting the reader to the past. 
 
-
