@@ -24,9 +24,9 @@ We would like you to trust your gut when identifying significant changes in time
 ### 1.2 Timeline and Contact Information
 
 **We are running a short "pilot" task to garner feedback on 
-the clarity of the annotation guidelines and to get a sense
-of what inter-annotator agreement will be.** The pilot consists
-of a single chapter of text, which will be sent to all annotators. 
+the clarity of the annotation guidelines and to get an initial sense
+of inter-annotator agreement.** The pilot consists
+of a single chapter of text, which will be sent out to all annotators. 
 
 Melody Ju - melody@cs.columbia.edu
 
