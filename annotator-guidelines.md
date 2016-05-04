@@ -25,7 +25,7 @@ in your operating system: *Notepad* for Windows and *TextWrangler* for
 
 When using *Notepad*: navigate to the `File` menu, select `Save As`. At the
 bottom of the `Save As` dialog box, select `Plain text (*.txt)` from the `Save as
-type...  drop-down list.
+type...`  drop-down list.
 
 When using *TextEdit*: navigate to the `Format` menu and select the `Make Plain
 Text` option.
