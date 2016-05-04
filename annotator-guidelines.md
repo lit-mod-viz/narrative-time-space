@@ -156,13 +156,14 @@ Not all changes in space correspond to a change in scene.
 ### 2.4 Suspending narrative, breaching narrative levels
 
 When a character narrates an eventful story situated in another time/space, 
-breaching narrative levels, a scene change may occur. 
+breaching narrative levels, a scene change may occur, depending on whether
+the story immersively transports the reader to another time or place, or 
+whether the story/memory is merely referenced. 
 What if the thing we jump to is not eventful?
 When a narrator suspends the event-story to make room for static descriptions
-or summary, this may also be a scene change.
+or summary, this may also be a scene change. It depends on whether a time/space
+is described in such a way that it takes on flesh in the reader's mind.
 
-If we are immersively transported to another time/space, it is a scene 
-change (even if just static description); if another time/space is merely mentioned, it is probably not. 
 
 **Example F**
 
@@ -174,3 +175,14 @@ change (even if just static description); if another time/space is merely mentio
 
 Explanation: Mr. Rochester begins telling a story that immerses the reader in another time and place. Although he refers to the past in the second paragraph, it is a mere reference to a memory. That memory becomes a scene of its own when he launches into detailed description and vignette in the third paragraph, transporting the reader to the past. 
 
+**Example G**
+
+> “What do you want?” I asked, with awkward diffidence.
+
+> “Say, ‘What do you want, Master Reed?’” was the answer.  “I want you to come here;” and seating himself in an arm-chair, he intimated by a gesture that I was to approach and stand before him.
+
+> John Reed was a schoolboy of fourteen years old; four years older than I, for I was but ten: large and stout for his age, with a dingy and unwholesome skin; thick lineaments in a spacious visage, heavy limbs and large extremities.  He gorged himself habitually at table, which made him bilious, and gave him a dim and bleared eye and flabby cheeks.  He ought now to have been at school; but his mama had taken him home for a month or two, “on account of his delicate health.”  Mr. Miles, the master, affirmed that he would do very well if he had fewer cakes and sweetmeats sent him from home; but the mother’s heart turned from an opinion so harsh, and inclined rather to the more refined idea that John’s sallowness was owing to over-application and, perhaps, to pining after home.
+
+> John had not much affection for his mother and sisters, and an antipathy to me.  He bullied and punished me; not two or three times in the week, nor once or twice in the day, but continually: every nerve I had feared him, and every morsel of flesh in my bones shrank when he came near.  There were moments when I was bewildered by the terror he inspired, because I had no appeal whatever against either his menaces or his inflictions; the servants did not like to offend their young master by taking my part against him, and Mrs. Reed was blind and deaf on the subject: she never saw him strike or heard him abuse me, though he did both now and then in her very presence, more frequently, however, behind her back.
+
+Explanation: Although the narrator suspends the story to provide extended static description, no scene change occurs. The description is not anchored in another time and place. 
