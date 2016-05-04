@@ -49,7 +49,7 @@ Note that not all time changes correspond to a change in scene. You
 must distinguish between when time is used to mark a scene change, and
 when it indicates something else.
 
-**Example 1**
+**Example A**
 
 > It was evident, indeed, that she wished me to drop the subject, which I did accordingly. **@** 
  
@@ -63,7 +63,7 @@ various things besides the narrator's companionship. Although the pace
 of the narrative has quickened, taking on the effect of summary,
 the reader is effectively transported to a different period of time.
  
-**Example 2**
+**Example B**
 
 > A long grace was said and a hymn sung; then a servant brought in some tea for the teachers, and *the meal began*. **@**
 
@@ -72,7 +72,7 @@ the reader is effectively transported to a different period of time.
 Explanation: Here, time is more metaphorical, emerging from
 the commencement of the meal - "lunchtime" has begun.  
  
-**Example 3**
+**Example C**
 
 > "But I have studied the place for myself," continued Mr. Enfield.
 "It seems scarcely a house. There is no other door, and nobody goes
@@ -115,13 +115,13 @@ to another, depending on the surroundings of each character.
 
 Not all changes in space correspond to a change in scene. 
 
-**Example 1**
+**Example D**
 
 > "No; you are less than a servant, for you do nothing for your keep. There, sit down, and think over your wickedness." **$**
 
 > They had got me by this time into the apartment indicated by Mrs. Reed, and had thrust me upon a stool: my impulse was to rise from it like a spring; their two pair of hands arrested me instantly.
 
-**Example 2**
+**Example E**
 
 > I had put on some clothes, though horror shook all my limbs; I issued from my apartment. **$** 
 
