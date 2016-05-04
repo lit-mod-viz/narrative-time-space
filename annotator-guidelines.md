@@ -8,6 +8,18 @@ provide the machine with instructive examples, we are asking a dozen or so
 human volunteers to read a text and to mark **scene boundaries that are indicated
 by changes in narrative time and space.**
 
+## What do we mean by *narrative* time and space?
+
+Narrative time differs from that of the reader. A few minutes in the
+reader's world may constitute decades in the fictional one. Time may not
+be continuous, and events may be presented out of order. The same
+goes for space - a novel's protagonist may understand the story
+from a different vantage point than that of the narrator.
+To complicate matters, fictional stories often contain multiple layers of narrative---worlds
+within worlds---which unfold simultaneously in multiple dimensions. 
+
+
+
 ## Markers 
 - To mark a change in time, use the symbol #. 
 - To mark a change in space, use the symbol $.
