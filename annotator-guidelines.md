@@ -30,6 +30,9 @@ We are running a short "pilot" task to garner feedback on
 the clarity of the annotation guidelines and to get an initial sense
 of inter-annotator agreement. The pilot consists
 of a single chapter of text, which will be sent out to all annotators. 
+Please complete your annotations in-line within the plain text file,
+and submit by attaching the modified file in an email to the 
+moderators.
 
 #### 1.2.2 Due dates
 May 12th - complete pilot and submit to moderators.
