@@ -15,8 +15,8 @@ by changes in narrative time and space.**
 - To mark a change in space, use the symbol $.
 - To mark a simultaneous change in time and space, use either @$ or $@.
 
-Markup can be done in-line within the plain text document sent by the moderators. 
-**To submit your results, save the completed file and attach it in an email to the 
+**Markup can be done in-line within the plain text document sent by the moderators. 
+To submit your results, save the completed file and attach it in an email to the 
 moderators.**
 
 Markers should only be placed between two sentences. Insert a marker between sentences A and B if sentence B begins in a new temporal or spatial location from sentence A. In some cases, the sentence boundary conceals an implicit "jump" from one location to the next. In other cases, sentence A may function as a fluid transition out of the previous location, and B may be a transition into the new one.
