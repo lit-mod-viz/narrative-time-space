@@ -23,10 +23,9 @@ We would like you to trust your gut when identifying significant changes in time
 
 ## Definitions
 
+### Narrative (diegetic ) worlds
 
-### What do we mean by *narrative* time and space?
-
-Narrative time differs from that of the reader. A few minutes in the
+Narrative time and space differs from that of the reader. A few minutes in the
 reader's world may constitute decades in the fictional one. Time may not
 be continuous, and events may be presented out of order. The same
 goes for space - a novel's protagonist may understand the story
