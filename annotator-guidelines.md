@@ -35,9 +35,8 @@ and submit by attaching the modified file in an email to the
 moderators.
 
 #### 1.2.2 Due dates
-May 12th - complete pilot and submit to moderators.
-
-June 5th - complete full novel and submit to moderators.
+- May 12th - complete pilot and submit to moderators.
+- June 5th - complete full novel and submit to moderators.
 
 Please let us know as soon as possible if you require an extension.
 
