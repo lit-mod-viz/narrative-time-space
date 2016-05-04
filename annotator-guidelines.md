@@ -8,7 +8,9 @@ provide the machine with instructive examples, we are asking a dozen or so
 human volunteers to read a text and to mark **scene boundaries that are indicated
 by changes in narrative time and space.**
 
-## Markers 
+## Instructions
+
+### Markers 
 - To mark a change in time, use the symbol @. 
 - To mark a change in space, use the symbol $.
 - To mark a simultaneous change in time and space, use either @$ or $@.
@@ -17,7 +19,12 @@ Markers should only be placed between two sentences. Insert a marker between sen
 
 We would like you to trust your gut when identifying significant changes in time and space. However, when you encounter a highly ambiguous situation or one that is not covered in this document, note your uncertainty by appending a question mark to the usual symbol (@?, @?, @$?, $@?). 
 
-## What do we mean by *narrative* time and space?
+### Timeline and Contact Information
+
+## Definitions
+
+
+### What do we mean by *narrative* time and space?
 
 Narrative time differs from that of the reader. A few minutes in the
 reader's world may constitute decades in the fictional one. Time may not
@@ -27,7 +34,7 @@ from a different vantage point than that of the narrator.
 To complicate matters, fictional stories often contain multiple layers of narrative---worlds
 within worlds---which unfold simultaneously in multiple dimensions. 
 
-## Time changes
+### Time changes
 
 You may think of a time change as a disruption in the assumed,
 smooth, linear progression of time - a tear, gap or other incongruity.  
@@ -88,7 +95,7 @@ indicate that both characters were lost in thought. After the temporal
 signal, the two are still walking along the same path, 
 engaged in the same conversation. No scene change has occurred. 
 
-## Space changes
+### Space changes
 
 While spaces in a novel can be hierarchically organized by relations of 
 containment (with rooms or streets always occurring within more
@@ -123,7 +130,7 @@ I had put on some clothes, though horror shook all my limbs; I issued from my ap
 
 The sleepers were all aroused: ejaculations, terrified murmurs sounded in every room; door after door unclosed; one looked out and another looked out; the gallery filled.  Gentlemen and ladies alike had quitted their beds; and “Oh! what is it?”—“Who is hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there robbers?”—“Where shall we run?” was demanded confusedly on all hands.
 
-## Suspending narrative, breaching narrative levels
+### Suspending narrative, breaching narrative levels
 
 When a character narrates an eventful story situated in another time/space, 
 breaching narrative levels, a scene change may occur. 
