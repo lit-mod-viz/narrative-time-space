@@ -61,10 +61,10 @@ moderators.
 
 #### 1.2.2 Due dates
 
-| date      | task                                                   |
-|-----------|--------------------------------------------------------|
-| May 12th  | complete pilot and submit to moderators                |
-| June 5th  | complete full novel and submit to moderators           |
+| date       | task                                                   |
+|------------|--------------------------------------------------------|
+| May 20th   | complete pilot and submit to moderators                |
+| June 15th  | complete full novel and submit to moderators           |
 
 Please let us know as soon as possible if you require an extension.
 
